@@ -5,7 +5,11 @@ I have tested on [[Orange Pi 3 LTS]][1] and [Orange Pi 4 LTS][2], it works and g
 
 I ran them on Ubuntu Focal from the manufacturer, so please install the OS first.
 
-Then you need to install some files to run it, the file `libssl1.1_1.1.1f-1ubuntu2_arm64.deb` included in this github incase that cannot download from ubuntu.com
+Then you need to install some files to run it, the file `libssl1.1_1.1.1f-1ubuntu2_arm64.deb` included in this github in case that you cannot download from ubuntu.com, download to your OPi and execute
+```shell
+sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2_arm64.deb
+```
+
 
 ## Orange Pi 4 LTS
 ```shell
