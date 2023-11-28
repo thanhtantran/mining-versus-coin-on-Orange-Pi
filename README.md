@@ -1,7 +1,7 @@
 # mining-versus-coin-on-Orange-Pi
 Instruction to mining versus coin on Orange Pi
 
-I have tested on [[Orange Pi 3 LTS]][1] and [Orange Pi 4 LTS][2], it works and give you 1.5MH/s - 1.7MH/s each OPi.
+I have tested on [Orange Pi 3 LTS][1] and [Orange Pi 4 LTS][2], it works and give you 1.5MH/s - 1.7MH/s each OPi.
 
 I ran them on Ubuntu Focal from the manufacturer, so please install the OS first.
 
